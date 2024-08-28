@@ -19,7 +19,7 @@ API PROD - tbd, API TEST - https://papi.trcrfortest.co
 ```
 или
 ```http
-  GET rest/v3/proposed-deals?type=pay
+  GET rest/v3/proposed-deals?type=buy
 ```
 
 #### Response example
