@@ -51,6 +51,8 @@ API PROD - tbd, API TEST - https://papi.trcrfortest.co
 }
 ```
 
+Body parameter "requisite" нужен только для сделок по продаже
+
 #### Response example
 
 ```javascript
