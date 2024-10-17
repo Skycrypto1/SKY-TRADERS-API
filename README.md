@@ -9,7 +9,7 @@
 [Подтверждение получения средств (для сделок по продаже)](#approveReceiving)
 
 Чтобы получить токен для API, необходимо связаться с администратором SKY CRYPTO.
-API PROD - tbd, API TEST - https://papi.trcrfortest.co
+API PROD - https://traders.skycrypto.me, API TEST - https://papi.trcrfortest.co
 
 <a name="activeDeals"></a>
 ## Получение списка активных сделок
